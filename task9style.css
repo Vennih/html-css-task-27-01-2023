@@ -1,0 +1,15 @@
+table, tr, th, td{
+    margin: 0;
+    border: 1px solid black;
+    width: auto;
+    padding: 0;
+}
+.morning{
+    background-color: bisque;
+}
+.noon{
+    background-color: aqua;
+}
+.evening{
+    background-color:blue;
+}
