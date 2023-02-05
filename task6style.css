@@ -1,0 +1,77 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    color: white;
+    font-family: Calibri, Arial, sans-serif;
+}
+
+.outlet {
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    background-image: url(task6bg.webp);
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+h1,
+p {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.frame {
+    width: 90vw;
+    margin: 0 auto;
+    background-color: rgb(4, 127, 136);
+    padding: 10px;
+    border: 2px solid white;
+    display: block;
+    text-align: left;
+    opacity: 0.9;
+
+}
+
+.code {
+    width: 40px;
+}
+
+.num {
+    width: 117px;
+}
+
+table {
+    width: 85vw;
+    margin: auto;
+}
+
+tr .gap {
+    width: 30px;
+    margin: 0;
+}
+
+button {
+    width: 150px;
+    margin: 0;
+    border: none;
+}
+
+.place-order {
+    background-color: rgb(67, 240, 240);
+}
+
+.reset {
+    background-color: rgb(245, 201, 120);
+}
+a{
+    color: orange;
+}
+a:hover{
+    color: red;
+}
